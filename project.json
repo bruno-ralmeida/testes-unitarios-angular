@@ -1,0 +1,8 @@
+{
+  "project": "xxnbr",
+  "sonarURL": "https://sonarcloud.io",
+  "auth": {
+    "username": "",
+    "password": ""
+  }
+}
